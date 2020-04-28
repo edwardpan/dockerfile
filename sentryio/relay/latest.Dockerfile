@@ -1,0 +1,1 @@
+FROM us.gcr.io/sentryio/relay:latest
